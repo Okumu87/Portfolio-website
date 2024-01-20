@@ -95,6 +95,12 @@ a {
       }
     }
   }
+
+  &-inner {
+    background: rgb(158, 103, 103);
+    height: 5.5rem;
+    border-bottom: 3px solid $main-color;
+  }
 }
 
 //Home Sections
